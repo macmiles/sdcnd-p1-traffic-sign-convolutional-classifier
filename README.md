@@ -1,7 +1,7 @@
 
 # Traffic Sign Classifier using a Convolutional DNN
 
-The goal of this project was to build and train a machine learning model that can accurately predict german traffic signs.
+The goal of this project was to build, train, and test a machine learning model that can accurately predict german traffic signs.
 
 ---
 ## Step 0: Load The Data
